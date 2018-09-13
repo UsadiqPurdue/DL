@@ -1,8 +1,9 @@
 # ann_siamese
-This is work under construction,
-some snippets from possibly useful exercises for learning Deep Learning
-ann4brains/examples/ann_siamese: layer filters are varied to demonstrate overfitting
-Change the number of filters in e2n and e2e layers until test accuracy starts falling.
+
+This is work under construction.
+Some snippets from possibly useful exercises for learning Deep Learning.
+See file ann4brains/examples/ann_siamese: layer filters are varied to demonstrate overfitting.
+Change the number of filters in e2n and e2e layers until you see CNN overfit data.
 
 Instructions to run and install this code are given at the bottom.
 
